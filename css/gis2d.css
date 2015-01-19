@@ -1,0 +1,12 @@
+﻿body {
+}
+
+.ng-scope {
+    width: 100%;
+    height: 100%;
+}
+
+#map {
+    background-color: gray;
+    min-height: 700px;
+}
